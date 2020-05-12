@@ -1,2 +1,2 @@
 # Project3_UntitledOperationwithCats
-This repository contains planning material for Project 3, which so far is an untitled Operation-like game with cats.
+The idea for this project is to create an Operation-like game in Processing, except the theme is revamped and concerned with cleaning up nature instead of a person’s internal organs. Ideally the user would drag and drop misplaced items and be sorting waste. Life points are lost if they bump into the garden cats. The timer for the game can be reset with the push of a button, or rapidly increased/decreased with a potentiometer.
